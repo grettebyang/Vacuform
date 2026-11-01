@@ -12,6 +12,7 @@ Vacuform is a cozy couch co-op exploration base-building game where you and your
 
 - Made in Unreal Engine 5.4
 - Programmed in Angelscript
+- Trunk-based version control in Perforce
 
 ### My Main Contributions to the Project
 
