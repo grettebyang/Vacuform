@@ -6,7 +6,7 @@
 
 Vacuform is a cozy couch co-op exploration base-building game where you and your friend vacuum up the corruption that has overgrown a planet once inhabited by humans. Explore different biomes, vacuum up enemies, resources, and find schematics to build and customize your base.
 
-<br> The game was designed and developed from start to finish in 9 weeks on a team consisting of 10 programmers, 15 graphics artists, and 5 game designers.
+<br> The game was designed and developed from start to finish in 9 weeks by a team consisting of 10 programmers, 15 graphics artists, and 5 game designers.
 
 ### Tech
 
