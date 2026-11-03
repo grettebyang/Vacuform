@@ -8,6 +8,8 @@ Vacuform is a cozy couch co-op exploration base-building game where you and your
 
 <br> The game was designed and developed from start to finish in 9 weeks by a team consisting of 10 programmers, 15 graphics artists, and 5 game designers.
 
+The game can be downloaded from itch.io [here](https://blushytears.itch.io/vacuform)
+
 https://github.com/user-attachments/assets/a8ab5e3a-85a6-4c0e-81d1-592ec3a81aa7
 
 ### Tech
